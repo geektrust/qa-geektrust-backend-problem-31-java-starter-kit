@@ -1,1 +1,1 @@
-# qa-geektrust-backend-problem-31-java-starter-kit
+# java-interview-fizz-buzz-starter-kit
